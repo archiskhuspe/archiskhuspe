@@ -2,8 +2,6 @@
 
 ### 💻 Full Stack Developer @ ekSource | ex-Highperformr.ai
 
-<h2 align="left">Connect</h2>
-
 <h3 align="left">
 📄 <a href="https://drive.google.com/file/d/11D9adWRe2zX9kjzoc31UZyV16GUWe4Qg/view?usp=sharing" target="_blank">
 Resume
