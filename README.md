@@ -3,10 +3,10 @@
 <samp>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=This+is+Archis" alt="Archis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=false&speed=75&width=500&height=50&lines=This+is+Archis" alt="Archis" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=36&lines=Full+Stack+Developer+%40+ekSource" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=false&speed=75&width=600&height=36&lines=Full+Stack+Developer+%40+ekSource" alt="Title" />
 </p>
 
 <p align="center">
