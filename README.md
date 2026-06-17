@@ -16,15 +16,15 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/archiskhuspe" target="_blank">
+  <a href="https://linkedin.com/in/archiskhuspe" target="_blank" style="text-decoration:none">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/ArchisKhuspe" target="_blank">
+  <a href="https://leetcode.com/ArchisKhuspe" target="_blank" style="text-decoration:none">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/archiskhuspe" target="_blank">
+  <a href="https://twitter.com/archiskhuspe" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" />
   </a>
 </p>
