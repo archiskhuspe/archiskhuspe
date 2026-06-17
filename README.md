@@ -2,9 +2,9 @@
 
 <samp>
 
-<h1 align="center">This is Archis</h1>
-
-<h3 align="center">💻 Full Stack Developer @ ekSource &nbsp;|&nbsp; ex-Highperformr.ai</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=This+is+Archis;Full+Stack+Developer+%40+ekSource+%7C+ex-Highperformr.ai" alt="Typing SVG" />
+</p>
 
 <p align="center">
   📄 &nbsp;<a href="https://drive.google.com/file/d/11D9adWRe2zX9kjzoc31UZyV16GUWe4Qg/view?usp=sharing" target="_blank">Resume</a>
