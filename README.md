@@ -3,7 +3,7 @@
 <samp>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=This+is+Archis;Full+Stack+Developer+%40+ekSource+%7C+ex-Highperformr.ai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&multiline=true&center=true&vCenter=true&width=600&height=80&lines=This+is+Archis;Full+Stack+Developer+%40+ekSource" alt="Typing SVG" />
 </p>
 
 <p align="center">
