@@ -3,13 +3,16 @@
 <samp>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&multiline=true&center=true&vCenter=true&width=600&height=80&lines=This+is+Archis;Full+Stack+Developer+%40+ekSource" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=This+is+Archis" alt="Archis" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=36&lines=Full+Stack+Developer+%40+ekSource" alt="Title" />
 </p>
 
 <p align="center">
   📄 &nbsp;<a href="https://drive.google.com/file/d/11D9adWRe2zX9kjzoc31UZyV16GUWe4Qg/view?usp=sharing" target="_blank">Resume</a>
   &nbsp;&nbsp;&nbsp;
-  📧 &nbsp;<a href="mailto:archisrk@gmail.com">archisrk@gmail.com</a>
+  📧 &nbsp;<a href="mailto:archisrk@gmail.com">Email</a>
 </p>
 
 <p align="center">
